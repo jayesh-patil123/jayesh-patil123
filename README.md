@@ -8,9 +8,9 @@
 <h2 align="center" style="color: #4b8b3b;">💻 About Me</h2>
 <p align="center">
   I’m a passionate **Data Analyst**, **Data Scientist**, and **Full-Stack Developer**.  
-  My mission is to **analyze data**, **build meaningful insights**, and **develop applications** that help solve real-world problems.
-  <br> Currently diving deep into **Generative AI**, **Large Language Models (LLM)**, and **Machine Learning**.
-  <br> I love automating processes, optimizing workflows, and making data-driven decisions. Let's build the future together! 
+  My mission is to **analyze data**, **build meaningful insights**, and **develop applications** that help solve real-world problems.  
+  Currently diving deep into **Generative AI**, **Large Language Models (LLM)**, and **Machine Learning**.
+  <br> Let's build the future together! 🔥
 </p>
 
 ---
@@ -71,6 +71,16 @@
 
 ---
 
+<h2 align="center" style="color: #4b8b3b;">📊 Progress Bars & Learning Journey</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-%23777?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-80%25-%23777?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-70%25-%23777?style=flat&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
 <h2 align="center" style="color: #4b8b3b;">📈 GitHub Stats & Contributions</h2>
 
 <p align="center">
@@ -87,7 +97,7 @@
 
 ---
 
-<h2 align="center" style="color: #ff6347;">📚 Projects</h2>
+<h2 align="center" style="color: #ff6347;">🌍 Featured Projects</h2>
 <p align="center">
   Check out some of my most exciting projects:
 </p>
@@ -96,6 +106,10 @@
   - **Data Science Projects**: [Link to GitHub](https://github.com/jayesh-patil123) 🧠
   - **Machine Learning Models**: [Link to GitHub](https://github.com/jayesh-patil123) 🤖
   - **Web Development Projects**: [Link to GitHub](https://github.com/jayesh-patil123) 🌐
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/29050042/104815692-d9e78000-57f8-11eb-8f90-3384e14cc49f.png" alt="Project Image" width="70%"/>
 </p>
 
 ---
