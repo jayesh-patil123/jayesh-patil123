@@ -1,149 +1,65 @@
-<h1 align="center">👋 Hi, I'm Jayesh Patil</h1>
-<h3 align="center">🚀 "Full-Stack Developer | Data Scientist | AI Enthusiast | Data Analyst | Innovator" </h3>
+<h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
+<h3 align="center">"Turning Ideas into Code | Exploring, Innovating, and Sharing on GitHub 🚀"</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayesh-patil123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/jayesh-patil123" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jayesh-patil-a8218324a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-patil123&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-patil123" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayesh-patil123" alt="jayesh-patil123" /></a> </p>
+
+- 🔭 I’m currently working on **GenAI**
+
+- 🌱 I’m currently learning **Gen AI, LLM, etc.**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/jayesh-patil123)
+
+- 💬 Ask me about **Python, Tableau, PowerBI, MySQL, Machine Learning, Deep Learning, NLP, CV, Data Cleaning, etc.**
+
+- 📫 How to reach me: **patiljayesh6908@gmail.com**
+
+- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1D85wkMxvFO6j-SrRFErqz81T8TmXTa9R)
+
+- ⚡ Fun fact: **I can find stories hidden in raw data faster than most people find their keys!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/jayesh-patil-a8218324a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/jayeshpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/__.capricorn__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
----
-
-<h2 align="center" style="color: #FF6347;">💼 About Me</h2>
-<p align="center">
-  Passionate about **AI**, **Machine Learning**, **Full-Stack Development**, and **Data Science**.  
-  Currently exploring **Generative AI** and **Large Language Models (LLMs)**, and working on **Data Engineering** projects.  
-  Experienced in building end-to-end applications, from **Frontend** to **Backend** and **Data Analysis**.  
-  Open to learning new technologies and collaborating on impactful projects. Let's connect and innovate! 🚀
+<h3 align="left">Technologies & Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
 </p>
 
----
-
-<h2 align="center" style="color: #1E90FF;">🛠️ Skills & Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-FFC107?style=flat&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-DC143C?style=flat&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend%20Dev-FF69B4?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Dev-4B0082?style=flat&logo=django&logoColor=white" />
+<h3 align="left">About Me:</h3>
+<p align="left">
+  I'm a passionate data analyst and machine learning enthusiast. With expertise in various tools like Python, Tableau, and MySQL, I enjoy building scalable data solutions and exploring innovative technologies like AI and NLP. I’m always up for learning new things and tackling challenges through data-driven insights.
 </p>
 
----
+<h3 align="left">Certifications:</h3>
+- 🎓 **Data Science Specialization** – Coursera (Johns Hopkins University)
+- 🎓 **Machine Learning** – Coursera (Stanford University)
+- 🎓 **Deep Learning Specialization** – Coursera (Andrew Ng)
 
-<h2 align="center" style="color: #FF6347;">📊 GitHub Stats & Achievements</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayesh-patil123&show_icons=true&locale=en&hide_title=true&hide=prs&theme=dark" alt="GitHub Stats"/>
-</p>
+<h3 align="left">Hobbies:</h3>
+- 🎮 Video Gaming (Strategy games and open-world exploration)
+- 🎨 Digital Art & Design
+- 🌍 Traveling and Exploring New Cultures
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-patil123&theme=dark" alt="GitHub Streak Stats"/>
-</p>
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/Jayesh"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jayesh" /></a>
+  <a href="https://ko-fi.com/Jayesh"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Jayesh" /></a>
+</p><br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayesh-patil123&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayesh-patil123&show_icons=true&locale=en&layout=compact" alt="jayesh-patil123" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh-patil123&show_icons=true&locale=en" alt="jayesh-patil123" /></p>
 
-<h2 align="center" style="color: #4CAF50;">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/jayesh-patil123/project1" target="_blank">
-    <img src="https://user-images.githubusercontent.com/29050042/104815692-d9e78000-57f8-11eb-8f90-3384e14cc49f.png" alt="Project 1" width="80%" />
-  </a>
-</p>
-
-<p align="center">
-  <h4>💻 Project 1: Machine Learning Model for Predicting Housing Prices</h4>
-  <a href="https://github.com/jayesh-patil123/project1" target="_blank">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 5px;">View Project</button>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jayesh-patil123/project2" target="_blank">
-    <img src="https://user-images.githubusercontent.com/29050042/104815692-d9e78000-57f8-11eb-8f90-3384e14cc49f.png" alt="Project 2" width="80%" />
-  </a>
-</p>
-
-<p align="center">
-  <h4>🖥️ Project 2: Real-Time Web Scraping App for Stock Market Data</h4>
-  <a href="https://github.com/jayesh-patil123/project2" target="_blank">
-    <button style="background-color: #FF6347; color: white; padding: 10px 20px; border-radius: 5px;">View Project</button>
-  </a>
-</p>
-
----
-
-<h2 align="center" style="color: #1E90FF;">💬 Let's Connect</h2>
-<p align="center">
-  - **LinkedIn**: [jayesh-patil-a8218324a](https://www.linkedin.com/in/jayesh-patil-a8218324a/)
-  - **Twitter**: [@jayesh_patil123](https://twitter.com/jayesh_patil123)
-  - **Instagram**: [@__.capricorn__](https://instagram.com/__.capricorn__)
-</p>
-
----
-
-<h2 align="center" style="color: #FF6347;">⚡ Fun Fact</h2>
-<p align="center" style="font-size: 18px; font-style: italic;">
-  "I can find stories hidden in raw data faster than most people find their keys!" 🔑📊
-</p>
-
----
-
-<h2 align="center" style="color: #4CAF50;">💸 Support Me</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Jayesh" target="_blank">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
-  </a>
-  <a href="https://ko-fi.com/Jayesh" target="_blank">
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi"/>
-  </a>
-</p>
-
----
-
-<h2 align="center" style="color: #FF6347;">📈 Data Analysis and Visualization</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jayesh-patil123/portfolio/main/charts/data_analysis_chart.gif" alt="Data Analysis Chart" width="100%"/>
-</p>
-
----
-
-<h2 align="center" style="color: #1E90FF;">🔮 More Upcoming Projects and Features</h2>
-<p align="center">
-  Stay tuned for upcoming **interactive dashboards**, **AI-powered solutions**, and more exciting projects in the field of **Machine Learning** and **Data Science**! 🚀
-</p>
-
----
-
-<h2 align="center" style="color: #FF6347;">🗺️ Career Timeline</h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/29050042/104815692-d9e78000-57f8-11eb-8f90-3384e14cc49f.png" alt="Career Timeline" width="80%"/>
-</p>
-
-<p align="center">
-  📅 2018-2020: Data Analyst at XYZ Corp.  
-  📅 2020-2022: Full-Stack Developer at ABC Ltd.  
-  📅 2022-Present: Data Scientist and AI Specialist.
-</p>
-
----
-
-<h2 align="center" style="color: #FF6347;">🔧 Tools & Technologies</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-F1C232?style=flat&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-</p>
-
----
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-patil123&" alt="jayesh-patil123" /></p>
