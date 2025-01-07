@@ -66,6 +66,19 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/jayesh-patil123/project2" target="_blank">
+    <img src="https://user-images.githubusercontent.com/29050042/104815692-d9e78000-57f8-11eb-8f90-3384e14cc49f.png" alt="Project 2" width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  <h4>🖥️ Project 2: Real-Time Web Scraping App for Stock Market Data</h4>
+  <a href="https://github.com/jayesh-patil123/project2" target="_blank">
+    <button style="background-color: #FF6347; color: white; padding: 10px 20px; border-radius: 5px;">View Project</button>
+  </a>
+</p>
+
 ---
 
 <h2 align="center" style="color: #1E90FF;">💬 Let's Connect</h2>
@@ -106,6 +119,30 @@
 <h2 align="center" style="color: #1E90FF;">🔮 More Upcoming Projects and Features</h2>
 <p align="center">
   Stay tuned for upcoming **interactive dashboards**, **AI-powered solutions**, and more exciting projects in the field of **Machine Learning** and **Data Science**! 🚀
+</p>
+
+---
+
+<h2 align="center" style="color: #FF6347;">🗺️ Career Timeline</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/29050042/104815692-d9e78000-57f8-11eb-8f90-3384e14cc49f.png" alt="Career Timeline" width="80%"/>
+</p>
+
+<p align="center">
+  📅 2018-2020: Data Analyst at XYZ Corp.  
+  📅 2020-2022: Full-Stack Developer at ABC Ltd.  
+  📅 2022-Present: Data Scientist and AI Specialist.
+</p>
+
+---
+
+<h2 align="center" style="color: #FF6347;">🔧 Tools & Technologies</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-F1C232?style=flat&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 </p>
 
 ---
