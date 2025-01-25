@@ -124,12 +124,11 @@ I specialize in **Python**, **SQL**, and tools like **Tableau** and **Power BI**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-patil123&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-### 🧑‍💻 GitHub Activity (Alternative):
+### 🧑‍💻 GitHub Activity:
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jayesh-patil123&theme=react-dark&area=true&hide_title=true&color=blue&line=yellow&point=green&bg_color=000000" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ### 💬 Social Feeds:
