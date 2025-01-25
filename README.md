@@ -46,12 +46,23 @@ I specialize in **Python**, **SQL**, and tools like **Tableau** and **Power BI**
 ---
 
 ### 🛠️ Skills:
-- **Programming Languages**: Python, SQL
-- **Database Systems**: MongoDB
-- **Data Tools**: Tableau, Power BI, Microsoft Excel
-- **Core Competencies**: Data Cleaning & Preprocessing, ETL Processes & Data Warehousing, Statistical Analysis & Visualization, Interactive Dashboard Design
+- **Programming Languages**: 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+  
+- **Database Systems**: 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  
+- **Data Tools**: 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 
----
+- **Core Competencies**: 
+  - Data Cleaning & Preprocessing
+  - ETL Processes & Data Warehousing
+  - Statistical Analysis & Visualization
+  - Interactive Dashboard Design
 
 ### 🏆 Certifications:
 - **Diploma in Full Stack Data Science & AI** | Gamaka AI Solution (July 2024)
