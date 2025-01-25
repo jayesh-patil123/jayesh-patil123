@@ -99,11 +99,9 @@ I specialize in **Python**, **SQL**, and tools like **Tableau** and **Power BI**
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/jayesh-patil-a8218324a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[https://fb.com/jayeshpatil](https://www.facebook.com/profile.php?id=61560672205123)" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="[https://instagram.com/__.capricorn__](https://www.instagram.com/__.capricorn__/)" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61560672205123" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/__.capricorn__/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-
----
 
 ### 📫 Reach out to me:
 - **Email**: [patiljayesh6908@gmail.com](mailto:patiljayesh6908@gmail.com)
@@ -115,14 +113,11 @@ I specialize in **Python**, **SQL**, and tools like **Tableau** and **Power BI**
   <img src="https://github-readme-stats.vercel.app/api?username=jayesh-patil123&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
 
----
-
 ### 📚 Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayesh-patil123&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayesh-patil123&show_icons=true&locale=en&layout=compact&theme=radical&card_width=500" alt="Top Languages" />
 </p>
 
----
 
 ### 🔥 GitHub Streak:
 <p align="center">
@@ -133,22 +128,35 @@ I specialize in **Python**, **SQL**, and tools like **Tableau** and **Power BI**
 
 ### 🧑‍💻 GitHub Activity:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jayesh-patil123&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=jayesh-patil123&theme=react-dark&area=true&hide_title=true&color=blue&line=yellow&point=green&bg_color=000000" alt="GitHub Activity Graph" />
 </p>
 
----
 
 ### 🎨 Interactive Visualizations:
 <p align="center">
-  <iframe width="100%" height="500px" src="https://plotly.com/~yourusername/graph" frameborder="0"></iframe>
+  ![Interactive Plot](https://github.com/yourusername/yourrepo/raw/main/path-to-your-image-or-gif.png)
 </p>
 
----
+### 🎨 Interactive Visualizations:
+You can explore my interactive visualizations on Plotly by [clicking here](https://plotly.com/~yourusername/graph).
+
+### 🎨 Interactive Visualizations:
+Check out my interactive visualizations hosted on GitHub Pages [here](https://yourusername.github.io/yourproject).
+
 
 ### 💬 Social Feeds:
 <p align="center">
-  <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jayesh-patil-a8218324a/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayesh-patil-a8218324a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/__.capricorn__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/jayeshpatil" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
----
