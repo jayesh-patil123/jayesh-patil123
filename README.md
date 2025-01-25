@@ -126,22 +126,10 @@ I specialize in **Python**, **SQL**, and tools like **Tableau** and **Power BI**
 
 ---
 
-### 🧑‍💻 GitHub Activity:
+### 🧑‍💻 GitHub Activity (Alternative):
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jayesh-patil123&theme=react-dark&area=true&hide_title=true&color=blue&line=yellow&point=green&bg_color=000000" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jayesh-patil123&theme=react-dark&area=true&hide_title=true&color=blue&line=yellow&point=green&bg_color=000000" alt="GitHub Activity Graph" />
 </p>
-
-
-### 🎨 Interactive Visualizations:
-<p align="center">
-  ![Interactive Plot](https://github.com/yourusername/yourrepo/raw/main/path-to-your-image-or-gif.png)
-</p>
-
-### 🎨 Interactive Visualizations:
-You can explore my interactive visualizations on Plotly by [clicking here](https://plotly.com/~yourusername/graph).
-
-### 🎨 Interactive Visualizations:
-Check out my interactive visualizations hosted on GitHub Pages [here](https://yourusername.github.io/yourproject).
 
 
 ### 💬 Social Feeds:
