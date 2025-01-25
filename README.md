@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jayesh Pramod Patil</h1>
-<h3 align="center">"Turning Data into Actionable Insights | Passionate About Machine Learning & AI 🚀"</h3>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ff3b3f;">Hi 👋, I'm Jayesh Pramod Patil</h1>
+<h3 align="center" style="color: #fff; background: linear-gradient(45deg, #ff4b5c, #ff6c8c); padding: 10px; border-radius: 10px; text-shadow: 2px 2px 5px rgba(255,255,255,0.4);">"Turning Data into Actionable Insights | Passionate About Machine Learning & AI 🚀"</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayesh-patil123&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-patil123" />
@@ -11,7 +11,7 @@
   </a>
 </p>
 
----
+--- 
 
 ### 🚀 About Me:
 I am a **Data Analyst** based in **Pune, Maharashtra, India**, with a strong foundation in **Computer Science**. Currently pursuing my **BE in Computer Science** from **Sinhgad Academy of Engineering** (2024), I am passionate about leveraging data to uncover insights that drive business decisions.
@@ -63,6 +63,8 @@ I specialize in **Python**, **SQL**, and tools like **Tableau** and **Power BI**
   - ETL Processes & Data Warehousing
   - Statistical Analysis & Visualization
   - Interactive Dashboard Design
+
+---
 
 ### 🏆 Certifications:
 - **Diploma in Full Stack Data Science & AI** | Gamaka AI Solution (July 2024)
@@ -126,3 +128,15 @@ I specialize in **Python**, **SQL**, and tools like **Tableau** and **Power BI**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-patil123&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🚀 Animated Background (Optional):
+- Add a subtle background animation like floating particles, stars, or a space theme (use a lightweight external script or GIF background).
+
+---
+
+### 🎉 Final Touch:
+- Integrate an **animated profile picture** (GIF), or custom CSS to add hover effects to your links and icons, making them change colors or animate on mouse-over.
+
+With this setup, you will not only showcase your skills but also give an interactive and visually futuristic experience to anyone who visits your profile. Let me know if you want help with implementing any specific animations or features!
