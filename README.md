@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Jayesh+Pramod+Patil!;Transforming+Data+Into+Actionable+Insights;Passionate+About+Machine+Learning+%26+AI+🚀;Cloud+Solutions+%7C+Generative+AI+%7C+ML+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=600&lines=Hi+👋,+I'm+Jayesh+Pramod+Patil!;Transforming+Data+Into+Actionable+Insights;Passionate+About+Machine+Learning+%26+AI+🚀;Cloud+Solutions+%7C+Generative+AI+%7C+ML+Deployment" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="font-size: 1.2em;">
@@ -19,6 +19,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=Welcome%20to%20Jayesh's%20World!&fontSize=36&fontAlign=50&fontColor=ffffff" alt="Capsule Banner" />
 </p>
+
 
 ---
 
