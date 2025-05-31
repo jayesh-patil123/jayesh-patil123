@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Wave Hi">
+  <img src="https://your-image-link.com/futuristic-banner.png" alt="Jayesh Patil Hero Banner" width="100%" />
 </p>
 
 <h3 align="center">💡 Data Analyst | Machine Learning | Cloud Solutions | Generative AI 💡</h3>
