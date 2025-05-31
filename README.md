@@ -137,14 +137,14 @@ Transforming raw data into powerful insights that drive decision-making.
 ---
 
 ### 🌟 Projects:
-#### **Hotel Reservation Prediction Web App**  
-[GitHub](https://github.com/jayesh-patil123/Hotel_Reservation_Prediction)  
+#### **Hotel Reservation Prediction Web App** 
+🚀 **End-to-End ML Pipeline** with interactive Flask UI.
 - Achieved **89% precision** using Python, Flask, Docker, and GCP.
 - Enhanced feature engineering and automated deployment with CI/CD.
 - Reduced manual errors by 30%, improved model reliability.
 
-#### **Anime Recommender System Web App**  
-[GitHub](https://github.com/jayesh-patil123/Anime_Recommender_System)  
+#### **Anime Recommender System Web App** 
+🚀 **End-to-End ML Pipeline** with interactive Flask UI.
 - Scalable hybrid engine for **320K+ users**, processing **5M+ records**.
 - Increased recommendation accuracy to **76%**, improving user engagement by 15%.
 - Leveraged **Kubernetes, Docker, and real-time ETL pipelines**.
@@ -188,8 +188,9 @@ Transforming raw data into powerful insights that drive decision-making.
 
 ### 🧑‍💻 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jayesh-patil123&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayesh-patil123&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
