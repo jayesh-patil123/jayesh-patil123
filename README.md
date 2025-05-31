@@ -171,29 +171,6 @@ Transforming raw data into powerful insights that drive decision-making.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayesh-patil123&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Jayesh's GitHub Stats" />
-</p>
-
-### 📚 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-patil123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-patil123&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 🧑‍💻 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayesh-patil123&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
-
----
-
 ### 🚀 Let's Connect!  
 <p align="center">
   <a href="https://linkedin.com/in/jayesh-patil123" target="_blank">
@@ -237,7 +214,7 @@ Transforming raw data into powerful insights that drive decision-making.
 
 ### 🧑‍💻 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jayesh-patil123&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayesh-patil123&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
