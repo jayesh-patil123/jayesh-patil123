@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Jayesh+Pramod+Patil!;Transforming+Data+Into+Actionable+Insights;Passionate+About+Machine+Learning+%26+AI+🚀;Cloud+Solutions+|+Generative+AI+|+ML+Deployment&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Jayesh+Pramod+Patil!;Transforming+Data+Into+Actionable+Insights;Passionate+About+Machine+Learning+%26+AI+🚀;Cloud+Solutions+%7C+Generative+AI+%7C+ML+Deployment" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  <span style="font-size: 1.2em;">"🚀 Turning Complex Data into Real-World Solutions with Machine Learning & AI 🌍"</span>
+<h3 align="center" style="font-size: 1.2em;">
+  🚀 Turning Complex Data into Real-World Solutions with Machine Learning & AI 🌍
 </h3>
 
 <p align="center">
@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=jayesh-patil123&theme=gruvbox&row=1&column=3&margin-w=10&margin-h=10" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20Jayesh's%20World!&fontSize=40&fontAlign=30&fontColor=ffffff" alt="Capsule Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=Welcome%20to%20Jayesh's%20World!&fontSize=36&fontAlign=50&fontColor=ffffff" alt="Capsule Banner" />
 </p>
 
 ---
