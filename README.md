@@ -84,26 +84,42 @@ Transforming raw data into powerful insights that drive decision-making.
 ### 🛠️ Skills:
 
 - **Programming & Libraries:**  
-  Python (Pandas, NumPy, Matplotlib, Seaborn), Flask, Docker, HTML, CSS  
-  <img src="https://skillicons.dev/icons?i=python,flask,docker,html,css" alt="programming icons" />
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Data Tools & Databases:**  
-  SQL, Excel, MongoDB  
-  <img src="https://skillicons.dev/icons?i=sql,excel,mongodb" alt="database icons" />
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **Visualization Tools:**  
-  Power BI, Tableau  
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau" alt="visualization icons" />
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 - **AI & Machine Learning:**  
-  Foundational knowledge of Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B6DAD?style=for-the-badge)
+  ![Generative AI](https://img.shields.io/badge/Generative%20AI-4B6DAD?style=for-the-badge&logo=openai&logoColor=white)
 
 - **DevOps & Cloud:**  
-  Google Cloud Platform (GCP), Jenkins, CI/CD Pipelines
+  ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 
 - **Core Competencies:**  
-  Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Model Building,  
-  Dashboard Creation, Data Visualization, ETL, Data Warehousing, Statistical Analysis
+  ![EDA](https://img.shields.io/badge/EDA-6DB33F?style=for-the-badge)
+  ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-3498DB?style=for-the-badge)
+  ![Model Building](https://img.shields.io/badge/Model%20Building-F39C12?style=for-the-badge)
+  ![Dashboard Creation](https://img.shields.io/badge/Dashboards-9B59B6?style=for-the-badge)
+  ![ETL](https://img.shields.io/badge/ETL-2ECC71?style=for-the-badge)
+  ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-34495E?style=for-the-badge)
+  ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-16A085?style=for-the-badge)
+
 
 
 ---
